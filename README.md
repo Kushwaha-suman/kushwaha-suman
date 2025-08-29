@@ -1,14 +1,15 @@
 # 👋 Hi, I'm Suman Kushwaha  
 
-🚀 CS & IT Student | 💻 Programmer | 🎮 Game Developer | 🌐 Web Designer  
+💻 Web Developer | 📱 App & Game Developer | 🎓 IT Student from Nepal  
 
 ---
 
 ## 🌟 About Me  
-- 🔭 Currently working on personal projects (Web + Game Dev)  
-- 🌱 Learning **C++, OOP & Recurrence Relations**  
-- 💬 Ask me about **Web Development, Game Development, or C Programming**  
-- ⚡ Fun fact: I speak **Nepali, Hindi, Maithili** and I’m learning **Bengali**  
+- 🎓 Pursuing **Information Technology (IT)**  
+- 🔭 Working on **Web & Game Development projects**  
+- 🌱 Learning **C++, OOP, Recurrence Relations** and many more  
+- 🌍 I can speak: **English, Hindi, Nepali, Maithili, Bhojpuri** and a little bit of **Bengali**  
+- ⚡ Always curious & exploring new technologies 🚀  
 
 ---
 
@@ -34,6 +35,6 @@
 
 ---
 
-## ✨ Visitors  
+## ✨ Profile Visitors  
 
 ![Visitors](https://komarev.com/ghpvc/?username=Kushwaha-suman&style=for-the-badge&color=000)  
