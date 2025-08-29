@@ -1,21 +1,39 @@
-# Hi there, I'm Suman 👋  
+# 👋 Hi, I'm Suman Kushwaha  
 
-🚀 I'm a student of Computer Science & IT  
-💻 I love programming, game development, and web design  
-❤️ Building creative apps and websites  
+🚀 CS & IT Student | 💻 Programmer | 🎮 Game Developer | 🌐 Web Designer  
+
+---
 
 ## 🌟 About Me  
-- 🔭 I’m currently working on: [My Love Website 💖](#)  
-- 🌱 I’m learning: **C++, OOP, and Recurrence Relations**  
-- 💬 Ask me about: Web Development, Game Development, or C Programming  
-- ⚡ Fun fact: I can speak Nepali, Hindi, and now learning Bengali & Maithili!  
+- 🔭 Currently working on personal projects (Web + Game Dev)  
+- 🌱 Learning **C++, OOP & Recurrence Relations**  
+- 💬 Ask me about **Web Development, Game Development, or C Programming**  
+- ⚡ Fun fact: I speak **Nepali, Hindi, Maithili** and I’m learning **Bengali**  
 
-## 📊 GitHub Stats
-![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+---
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=dracula)
+## 🌐 Connect with Me  
 
-## 🌐 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel)](YOUR-PORTFOLIO-LINK)  
+[![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1CDSQRJw2q/)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kushwaha-suman)  
+[![X (Twitter)](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sumankushwaha07)  
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sumankushwaha333/)  
+
+---
+
+## 📊 GitHub Stats  
+
+![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kushwaha-suman&show_icons=true&theme=transparent)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kushwaha-suman&layout=compact&theme=transparent)  
+
+---
+
+## 🏆 GitHub Trophies  
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Kushwaha-suman&theme=algolia&no-frame=true&no-bg=true&margin-w=15)  
+
+---
+
+## ✨ Visitors  
+
+![Visitors](https://komarev.com/ghpvc/?username=Kushwaha-suman&style=for-the-badge&color=000)  
