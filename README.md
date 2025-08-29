@@ -27,15 +27,9 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Kushwaha-suman&theme=algolia&no-frame=true&no-bg=true&margin-w=15)
-
 ---
 
 ## ✨ Profile Visitors
 ![Visitors](https://komarev.com/ghpvc/?username=Kushwaha-suman&style=for-the-badge&color=000)
 
 ---
-
-## 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/Kushwaha-suman/Kushwaha-suman/output/snake.svg)
